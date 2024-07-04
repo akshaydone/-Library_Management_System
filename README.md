@@ -6,11 +6,17 @@ The main feature of this system is that all the books available in the library c
 A user friendly Java Application for managing-database in a using MySql and Java The application allows CRUD operations for Users,Books,Publishers,Authors The application also allows Issuing and return of books and calculating fine if applicable
 
 Features
+
 Issue Book
+
 Return Book
+
 Add New Book to Library
+
 Remove Book from Library
+
 View Avaliable Books
+
 Tech Stack
 Language Used: Java Core
 
